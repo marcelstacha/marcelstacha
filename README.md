@@ -4,7 +4,7 @@
   <li><strike>Dollar Euro Kurs + Graph</strike></li>
  <li> <strike>Password Generator</strike></li>
   
-  <li>Flashcards</li>
+  <li>Flashcards React</li>
   <li>Sport Tracker</li>
   <li>Bento Page</li>
    
