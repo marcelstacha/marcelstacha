@@ -7,7 +7,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,ps,ai"/>
 </p>
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td>HTML</td>
