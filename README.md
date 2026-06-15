@@ -3,7 +3,7 @@
 <table align="center">
   <tbody>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=html" width="32" align="absmiddle" style="margin-right: 5px;" /> HTML</td>
+      <td><img src="https://skillicons.dev/icons?i=html" width="32" align="absmiddle" style="margin-right: 5px;padding: 0.25rem 0.5rem;" /> HTML</td>
       <td><img src="https://skillicons.dev/icons?i=css" width="32" align="absmiddle" style="margin-right: 5px;" /> CSS</td>
       <td><img src="https://skillicons.dev/icons?i=js" width="32" align="absmiddle" style="margin-right: 5px;" /> JavaScript</td>
     </tr>
