@@ -3,9 +3,9 @@
 <table align="center">
   <tbody>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=html" width="32" align="absmiddle" style="margin-right: 5px;" /> HTML</td>
-      <td><img src="https://skillicons.dev/icons?i=css" width="32" align="absmiddle" style="margin-right: 5px;" /> CSS</td>
-      <td><img src="https://skillicons.dev/icons?i=js" width="32" align="absmiddle" style="margin-right: 5px;" /> JavaScript</td>
+      <td><img src="https://skillicons.dev/icons?i=html" width="32" align="absmiddle" style="margin-right: 12px;" /> HTML</td>
+      <td><img src="https://skillicons.dev/icons?i=css" width="32" align="absmiddle" style="margin-right: 12px;" /> CSS</td>
+      <td><img src="https://skillicons.dev/icons?i=js" width="32" align="absmiddle" style="margin-right: 12px;" /> JavaScript</td>
     </tr>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=react" width="32" align="absmiddle" style="margin-right: 5px;" /> React</td>
