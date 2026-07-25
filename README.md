@@ -14,7 +14,7 @@
     </tr>
     <tr>
       <td height="60"><img src="https://skillicons.dev/icons?i=vite" width="32" align="absmiddle" />&ensp;&nbsp;Vite</td>
-      <td height="60"><img src="https://skillicons.dev/icons?i=vitest" width="32" align="absmiddle" />&ensp;&nbsp;Vitest</td>
+      <td height="60"><img src="https://skillicons.dev/icons?i=jest" width="32" align="absmiddle" />&ensp;&nbsp;Jest</td>
       <td height="60"><img src="https://skillicons.dev/icons?i=npm" width="32" align="absmiddle" />&ensp;&nbsp;npm</td>
     </tr>
     <tr>
