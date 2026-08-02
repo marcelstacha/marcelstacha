@@ -8,14 +8,14 @@
       <td height="60" width="200"><img src="https://skillicons.dev/icons?i=js" width="32" align="absmiddle" />&ensp;&nbsp;JavaScript</td>
     </tr>
     <tr>
-      <td height="60" max-width="200"><img src="https://skillicons.dev/icons?i=react" width="32" align="absmiddle" />&ensp;&nbsp;React</td>
-      <td height="60" max-width="200"><img src="https://skillicons.dev/icons?i=tailwind" width="32" align="absmiddle" />&ensp;&nbsp;Tailwind</td>
-      <td height="60" max-width="200"><img src="https://skillicons.dev/icons?i=ts" width="32" align="absmiddle" />&ensp;&nbsp;TypeScript</td>
+      <td height="60" width="200"><img src="https://skillicons.dev/icons?i=react" width="32" align="absmiddle" />&ensp;&nbsp;React</td>
+      <td height="60" width="200"><img src="https://skillicons.dev/icons?i=tailwind" width="32" align="absmiddle" />&ensp;&nbsp;Tailwind</td>
+      <td height="60" width="200"><img src="https://skillicons.dev/icons?i=ts" width="32" align="absmiddle" />&ensp;&nbsp;TypeScript</td>
     </tr>
     <tr>
-      <td height="60" max-width="200"><img src="https://skillicons.dev/icons?i=vite" width="32" align="absmiddle" />&ensp;&nbsp;Vite</td>
-      <td height="60" max-width="200"><img src="https://skillicons.dev/icons?i=jest" width="32" align="absmiddle" />&ensp;&nbsp;Jest</td>
-      <td height="60" max-width="200"><img src="https://skillicons.dev/icons?i=npm" width="32" align="absmiddle" />&ensp;&nbsp;npm</td>
+      <td height="60" width="200"><img src="https://skillicons.dev/icons?i=vite" width="32" align="absmiddle" />&ensp;&nbsp;Vite</td>
+      <td height="60" width="200"><img src="https://skillicons.dev/icons?i=jest" width="32" align="absmiddle" />&ensp;&nbsp;Jest</td>
+      <td height="60" width="200"><img src="https://skillicons.dev/icons?i=npm" width="32" align="absmiddle" />&ensp;&nbsp;npm</td>
     </tr>
     <tr>
       <td height="60"><img src="https://skillicons.dev/icons?i=vscode" width="32" align="absmiddle" />&ensp;&nbsp;VS Code</td>
