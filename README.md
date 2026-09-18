@@ -18,7 +18,7 @@
       <td height="60" width="200"><img src="https://skillicons.dev/icons?i=npm" width="32" align="absmiddle" />&ensp;&nbsp;npm</td>
     </tr>
     <tr>
-      <td height="60"><img src="https://skillicons.dev/icons?i=vscode" width="32" align="absmiddle" />&ensp;&nbsp;VS Code</td>
+      <td height="60"><img src="https://skillicons.dev/icons?i=git" width="32" align="absmiddle" />&ensp;&nbsp;Git</td>
       <td height="60"><img src="https://skillicons.dev/icons?i=ps" width="32" align="absmiddle" />&ensp;&nbsp;Adobe Photoshop</td>
       <td height="60"><img src="https://skillicons.dev/icons?i=ai" width="32" align="absmiddle" />&ensp;&nbsp;Adobe Illustrator</td>
     </tr>
